@@ -3,7 +3,6 @@
     "name": "React Navigation",
     "slug": "react_navigation",
     "privacy": "public",
-    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android",
